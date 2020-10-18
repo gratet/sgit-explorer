@@ -1,5 +1,6 @@
 # sigit-explorer
-Scripts and database queries for exploring the AFCS of the ATMCdT.
+This repository contains a set of scripts and SQL queries needed to replicate a framework to manage a medium or large volume of data from the logs created by an AFC system and facilitate its exploitation through SQL queries.
+
 
 
 ## References:
