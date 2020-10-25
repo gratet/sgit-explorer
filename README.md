@@ -4,7 +4,7 @@ This repository contains a set of scripts and SQL queries needed to replicate a 
 
 ### Content layer
 
-A set of scripts to create an empty dummy database following the database model, to load all datasets into a relational database and to set up the database for increasing the database performance (e.g. applying normalisation, creating indexes and useful views).
+A set of scripts to create an empty dummy database following the database model [[3]](#3), to load all datasets into a relational database and to set up the database for increasing the database performance (e.g. applying normalisation, creating indexes and useful views).
 
 ### Service layer
 
@@ -20,3 +20,6 @@ Gutiérrez, A., Domènech, A., Zaragozí, B., & Miravet, D. (2020). Profiling to
 
 <a id="2">[2]</a> 
 Zaragozí, B., Gutiérrez, A., & Trilles, S. (2020). Towards an Affordable GIS for Analysing Public Transport Mobility Data: A Preliminary File Naming Convention for Avoiding Duplication of Efforts. <em>In GISTAM</em> (pp. 302-309).
+
+<a id="3">[3]</a> 
+Zaragozí, B., Trilles, S., Miravet, D., & Gutiérrez, A. (Submitted). Development of a common framework for analyzing public transport smart card data. <em>Submitted in Sustainability, MDPI</em> (pp. 302-309).
