@@ -14,6 +14,8 @@ A set of SQL-encoded queries are included. These queries are formulated using a 
 
 A R script to perform a model-based clustering analysis. Based on the results the script creates some visualizations in order to be usefull to make decisions. 
 
+
+
 ## References:
 <a id="1">[1]</a> 
 Gutiérrez, A., Domènech, A., Zaragozí, B., & Miravet, D. (2020). Profiling tourists' use of public transport through smart travel card data. <em>Journal of Transport Geography</em>, 88, 102820.
