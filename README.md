@@ -8,7 +8,7 @@ A set of scripts to create an empty dummy database following the database model,
 
 ### Service layer
 
-A set of SQL-encoded queries are included. These queries are formulated using a Domain-Specific Language (DSL) called MobilityFNC []. Each query is named using this convention, and both files --- the SQL query defined by the database experts and the results file --- are inseparable. The key element in this solution is that the common nomenclature enables the creation of a repository of the query outputs, and so avoiding the duplication of efforts when creating new queries. 
+A set of SQL-encoded queries are included. These queries are formulated using a Domain-Specific Language (DSL) called MobilityFNC [1]. Each query is named using this convention, and both files --- the SQL query defined by the database experts and the results file --- are inseparable. The key element in this solution is that the common nomenclature enables the creation of a repository of the query outputs, and so avoiding the duplication of efforts when creating new queries. 
 
 ### Application layer
 
