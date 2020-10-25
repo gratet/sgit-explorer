@@ -21,3 +21,10 @@ A R script to perform a model-based clustering analysis. Based on the results th
 <li> [2]: Zaragozí, B., Gutiérrez, A., & Trilles, S. (2020). Towards an Affordable GIS for Analysing Public Transport Mobility Data: A Preliminary File Naming Convention for Avoiding Duplication of Efforts. <em>In GISTAM</em> (pp. 302-309).</li>
 </ol>
 
+"...the **go to** statement should be abolished..." [[1]](#1).
+
+## References
+<a id="1">[1]</a> 
+Dijkstra, E. W. (1968). 
+Go to statement considered harmful. 
+Communications of the ACM, 11(3), 147-148
