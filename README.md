@@ -8,23 +8,14 @@ A set of scripts to create an empty dummy database following the database model,
 
 ### Service layer
 
-A set of SQL-encoded queries are included. These queries are formulated using a Domain-Specific Language (DSL) called MobilityFNC [1]. Each query is named using this convention, and both files --- the SQL query defined by the database experts and the results file --- are inseparable. The key element in this solution is that the common nomenclature enables the creation of a repository of the query outputs, and so avoiding the duplication of efforts when creating new queries. 
+A set of SQL-encoded queries are included. These queries are formulated using a Domain-Specific Language (DSL) called MobilityFNC [[2]](#2). Each query is named using this convention, and both files --- the SQL query defined by the database experts and the results file --- are inseparable. The key element in this solution is that the common nomenclature enables the creation of a repository of the query outputs, and so avoiding the duplication of efforts when creating new queries. 
 
 ### Application layer
 
 A R script to perform a model-based clustering analysis. Based on the results the script creates some visualizations in order to be usefull to make decisions. 
 
 ## References:
-
-<ol>
-<li> [1]: Gutiérrez, A., Domènech, A., Zaragozí, B., & Miravet, D. (2020). Profiling tourists' use of public transport through smart travel card data. <em>Journal of Transport Geography</em>, 88, 102820.</li>
-<li> [2]: Zaragozí, B., Gutiérrez, A., & Trilles, S. (2020). Towards an Affordable GIS for Analysing Public Transport Mobility Data: A Preliminary File Naming Convention for Avoiding Duplication of Efforts. <em>In GISTAM</em> (pp. 302-309).</li>
-</ol>
-
-"...the **go to** statement should be abolished..." [[1]](#1).
-
-## References
 <a id="1">[1]</a> 
-Dijkstra, E. W. (1968). 
-Go to statement considered harmful. 
-Communications of the ACM, 11(3), 147-148
+Gutiérrez, A., Domènech, A., Zaragozí, B., & Miravet, D. (2020). Profiling tourists' use of public transport through smart travel card data. <em>Journal of Transport Geography</em>, 88, 102820.
+<a id="2">[2]</a> 
+Zaragozí, B., Gutiérrez, A., & Trilles, S. (2020). Towards an Affordable GIS for Analysing Public Transport Mobility Data: A Preliminary File Naming Convention for Avoiding Duplication of Efforts. <em>In GISTAM</em> (pp. 302-309).
