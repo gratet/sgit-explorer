@@ -1,6 +1,6 @@
 # sigit-explorer
 
-This repository contains a set of scripts and SQL queries needed to replicate a framework to manage a medium or large volume of data from the logs created by an AFC system and facilitate its exploitation through SQL queries. This AFC framework is divided into three different layers: content layer, services Layer and application layer. Following, each of the pieces included in this repository is detailed
+This repository contains a set of scripts and SQL queries needed to replicate a framework to manage a medium or large volume of data from the logs created by an AFC system and facilitate its exploitation through SQL queries. This AFC framework is divided into three different layers: content layer, services layer and application layer. Following, each of the pieces included in this repository is detailed.
 
 ### Content layer
 
