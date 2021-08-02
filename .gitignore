@@ -2,6 +2,7 @@ data/*
 dist/*
 *.db
 *.RData
+.rstudio/
 
 # History files
 .Rhistory
